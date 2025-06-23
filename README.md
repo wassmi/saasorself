@@ -68,5 +68,5 @@ It’s not a quiz. It’s a decision framework that builds trust, provides insig
 ---
 
 ## 🔗 Live Preview  
-[saasorself.com/fitcheck](https://saasorself-ai-build-vs-buy-software-calculator-cu-946255085766.us-west1.run.app/#contact)
+[saasorself.com/fitcheck]([https://saasorself-ai-build-vs-buy-software-calculator-cu-946255085766.us-west1.run.app/#contact](https://saasorself-ai-build-vs-buy-software-calculator-cu-946255085766.us-west1.run.app/#/calculator))
 
